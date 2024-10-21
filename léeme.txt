@@ -1,0 +1,4 @@
+Buenas noches, estimado profesor.
+Se adjuntan las tareas T3, T4, T5 y T6 de los ejercicios de python.
+
+Repositorio en github: https://github.com/73204027/204-IA-T3456-ARZUBIALDE---Ejercicios-Python.git
